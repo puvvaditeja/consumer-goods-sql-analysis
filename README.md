@@ -7,7 +7,7 @@
 - Practice SQL techniques like JOINs, aggregations, window functions, subqueries, and date-based analysis.
 
 ## Dataset used
-
+- <a href="https://github.com/puvvaditeja/consumer-goods-sql-analysis/blob/main/atliq_hardware_db(compressed).zip">Dataset</a>
 
 ## Database Schema
 ![Database - schema](https://github.com/user-attachments/assets/174d3224-9c5c-4d1c-97e2-888776ecb3c3)
